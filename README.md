@@ -1,6 +1,6 @@
 # libnm-stub
-Includes PKBUILD for creating a stub libnm package for archlinux.
+Includes PKBUILD for creating a stub package for archlinux.
 
-Purpose of it is to replace the bloat that comes as dependancy to gnome-settings-daemon package
+It's purpose is providing a dummy package that replaces the bloat that comes as dependancy to *gnome-settings-daemon package
 
-*warning:DO NOT USE IF YOU ARE ACTUALLY USING NETWORK-MANAGER*
+Warning:DO NOT USE IF YOU ARE ACTUALLY USING NETWORK-MANAGER!
