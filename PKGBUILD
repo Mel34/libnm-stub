@@ -1,0 +1,14 @@
+_name=libnm-stub
+pkgname=$_name
+pkgver=0.01
+pkgrel=1
+pkgdesc="Stub .so for libnm painless removal"
+arch=('i686' 'x86_64')
+license=('gpl')
+depends=('coreutils')
+replaces=('libnm')
+url='http://google.com'
+conflicts=($replaces)
+provides=($replaces)
+source=()
+md5sums=()
